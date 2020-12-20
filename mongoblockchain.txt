@@ -1,0 +1,1 @@
+[{"sender": "gd", "previousHash": "", "data": "100", "difficulty": 2, "_id": 1, "recipient": "c"}, {"sender": "d gg", "previousHash": "00385df275c004737c4d05a6790ded681110afaebc8ca7a85acd59c7af26d485", "data": "3", "difficulty": 3, "_id": 2, "recipient": "ae gr"}]
