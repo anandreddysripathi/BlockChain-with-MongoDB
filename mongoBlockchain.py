@@ -10,7 +10,7 @@ import unicodedata
 import hashlib
 
 #connecting to the  MongoDB Atlas
-client = MongoClient("mongodb+srv://anand:anand98@mycluster.y3ecg.mongodb.net/Mycluster?retryWrites=true&w=majority")
+client = MongoClient("mongodb+srv://@mycluster.y3ecg.mongodb.net/Mycluster?retryWrites=true&w=majority")
 db = client['blockChain']
 collection = db["transactions"]
 
